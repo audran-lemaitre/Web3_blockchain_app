@@ -1,6 +1,6 @@
 # Web3 Blockchain Application
 
-![Project Image]()
+![Project Image](./client/images/home.png)
 
 > Fullstack dApp powered by smart contract allowing you to send ETH and messages.
 
@@ -29,8 +29,6 @@ Stunning design, connected to the blockchain, metamask pairing, interaction with
 - Metamask
 - Visual studio code
 
-[Back To The Top](#Web3-Blockchain-Application)
-
 ---
 
 ## How To Use
@@ -38,14 +36,12 @@ Stunning design, connected to the blockchain, metamask pairing, interaction with
 #### Installation
 
 Backend Packages
-'npm install --save-dev hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers ethers'
+> npm install --save-dev hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers ethers
 
 ---
 
 ## References
 Inspiration from "JavaScript Mastery" youtube channel.
-
-[Back To The Top](#Web3-Blockchain-Application)
 
 ---
 
@@ -73,8 +69,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#Web3-Blockchain-Application)
-
 ---
 
 ## Author Info
@@ -82,4 +76,4 @@ SOFTWARE.
 - LinkedIn - [@audranlemaitre](https://www.linkedin.com/in/audranlemaitre/)
 - Twitter - [@AudranLemaitre](https://twitter.com/AudranLemaitre)
 
-[Back To The Top](#Web3-Blockchain-Application)
+[Back To The Top](#description)
